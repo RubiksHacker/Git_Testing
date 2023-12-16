@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is final test to check if this works or not
 =======
 This jsut fake test commit
+>>>>>>> second
+=======
+Fixing this file
 >>>>>>> second
